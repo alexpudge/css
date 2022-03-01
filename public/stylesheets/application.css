@@ -1,0 +1,32 @@
+
+body {
+    font-family: sans-serif;
+    background-color: #FBF6EF;
+    padding: 40px;
+    width: 60%;
+    margin: 0 auto;
+}
+
+h1 {
+    color: #B30430;
+    font-weight: 600;
+    font-size: 88px;
+}
+
+p {
+    line-height: 160%;
+}
+
+
+p a {
+    background-color: #1E1E70;
+    border-radius: 100px;
+    padding: 8px 24px 8px 24px;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+br {
+    line-height: 50%;
+}
